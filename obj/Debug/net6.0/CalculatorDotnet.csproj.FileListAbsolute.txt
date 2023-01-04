@@ -1,0 +1,15 @@
+C:\pessoal\CalculatorDotnet\bin\Debug\net6.0\CalculatorDotnet.exe
+C:\pessoal\CalculatorDotnet\bin\Debug\net6.0\CalculatorDotnet.deps.json
+C:\pessoal\CalculatorDotnet\bin\Debug\net6.0\CalculatorDotnet.runtimeconfig.json
+C:\pessoal\CalculatorDotnet\bin\Debug\net6.0\CalculatorDotnet.dll
+C:\pessoal\CalculatorDotnet\bin\Debug\net6.0\CalculatorDotnet.pdb
+C:\pessoal\CalculatorDotnet\obj\Debug\net6.0\CalculatorDotnet.csproj.AssemblyReference.cache
+C:\pessoal\CalculatorDotnet\obj\Debug\net6.0\CalculatorDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\pessoal\CalculatorDotnet\obj\Debug\net6.0\CalculatorDotnet.AssemblyInfoInputs.cache
+C:\pessoal\CalculatorDotnet\obj\Debug\net6.0\CalculatorDotnet.AssemblyInfo.cs
+C:\pessoal\CalculatorDotnet\obj\Debug\net6.0\CalculatorDotnet.csproj.CoreCompileInputs.cache
+C:\pessoal\CalculatorDotnet\obj\Debug\net6.0\CalculatorDotnet.dll
+C:\pessoal\CalculatorDotnet\obj\Debug\net6.0\refint\CalculatorDotnet.dll
+C:\pessoal\CalculatorDotnet\obj\Debug\net6.0\CalculatorDotnet.pdb
+C:\pessoal\CalculatorDotnet\obj\Debug\net6.0\CalculatorDotnet.genruntimeconfig.cache
+C:\pessoal\CalculatorDotnet\obj\Debug\net6.0\ref\CalculatorDotnet.dll
